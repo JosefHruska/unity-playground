@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{70E71916-1886-5868-555B-6CE81EAAF44C}") = "NextBigThing No. 1", "Assembly-CSharp.csproj", "{813FFFFD-68FA-75FD-2890-995C2CFB5302}"
+EndProject
+Project("{70E71916-1886-5868-555B-6CE81EAAF44C}") = "NextBigThing No. 1", "Assembly-CSharp-Editor-firstpass.csproj", "{C5717315-CDB2-94F4-DFF4-C7CDEBD949BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{813FFFFD-68FA-75FD-2890-995C2CFB5302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{813FFFFD-68FA-75FD-2890-995C2CFB5302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{813FFFFD-68FA-75FD-2890-995C2CFB5302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{813FFFFD-68FA-75FD-2890-995C2CFB5302}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5717315-CDB2-94F4-DFF4-C7CDEBD949BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5717315-CDB2-94F4-DFF4-C7CDEBD949BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5717315-CDB2-94F4-DFF4-C7CDEBD949BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5717315-CDB2-94F4-DFF4-C7CDEBD949BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
